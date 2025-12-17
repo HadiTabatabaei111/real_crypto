@@ -1,5 +1,6 @@
 setuptools>=68.0.0
 wheel>=0.40.0
+python==3.12
 flask==2.3.3
 flask-socketio==5.3.6
 ccxt==4.1.22
